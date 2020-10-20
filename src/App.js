@@ -1,27 +1,20 @@
 import React from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import spiderImg from './images/spider.svg';
-import flyImg from './images/fly.png';
+import Menu from './components/Menu';
+import Play from './components/Play';
 
 import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <h1>Score: <span class="score">0</span></h1>
-      <div class="wall">
-        <img
-          src={flyImg}
-          class="fly"
-          alt="fly"
-        />
-        <img
-          src={spiderImg}
-          class="spider"
-          alt="spider"
-        />
-      </div>
-      <p>Use arrows to play</p>
+      <Router>
+        <div>
+          <Route exact path="/" component={Menu} />
+          <Route exact path="/play" component={Play} />
+        </div>
+      </Router>
     </div>
   );
 }
