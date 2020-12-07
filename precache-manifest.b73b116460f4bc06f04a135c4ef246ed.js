@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2acc4770801412fd99944fd191758bb2",
+    "revision": "0b3e763487ed5f43a095a3574939a019",
     "url": "/spider-game/index.html"
   },
   {
-    "revision": "3efae3f96618e0efb70c",
-    "url": "/spider-game/static/css/main.952a5e4e.chunk.css"
+    "revision": "5445a1ad4baadc4eda6f",
+    "url": "/spider-game/static/css/main.875be7ad.chunk.css"
   },
   {
-    "revision": "c4480b831929e90fbdbf",
-    "url": "/spider-game/static/js/2.41d79b3a.chunk.js"
+    "revision": "a83dfe6e617efa523ccf",
+    "url": "/spider-game/static/js/2.90f665e7.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/spider-game/static/js/2.41d79b3a.chunk.js.LICENSE.txt"
+    "url": "/spider-game/static/js/2.90f665e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3efae3f96618e0efb70c",
-    "url": "/spider-game/static/js/main.8fe2280b.chunk.js"
+    "revision": "5445a1ad4baadc4eda6f",
+    "url": "/spider-game/static/js/main.9bc96f05.chunk.js"
   },
   {
     "revision": "9cd28394afe5abc1db45",

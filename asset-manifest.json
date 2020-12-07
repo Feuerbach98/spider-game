@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spider-game/static/css/main.952a5e4e.chunk.css",
-    "main.js": "/spider-game/static/js/main.8fe2280b.chunk.js",
-    "main.js.map": "/spider-game/static/js/main.8fe2280b.chunk.js.map",
+    "main.css": "/spider-game/static/css/main.875be7ad.chunk.css",
+    "main.js": "/spider-game/static/js/main.9bc96f05.chunk.js",
+    "main.js.map": "/spider-game/static/js/main.9bc96f05.chunk.js.map",
     "runtime-main.js": "/spider-game/static/js/runtime-main.bdd224c0.js",
     "runtime-main.js.map": "/spider-game/static/js/runtime-main.bdd224c0.js.map",
-    "static/js/2.41d79b3a.chunk.js": "/spider-game/static/js/2.41d79b3a.chunk.js",
-    "static/js/2.41d79b3a.chunk.js.map": "/spider-game/static/js/2.41d79b3a.chunk.js.map",
+    "static/js/2.90f665e7.chunk.js": "/spider-game/static/js/2.90f665e7.chunk.js",
+    "static/js/2.90f665e7.chunk.js.map": "/spider-game/static/js/2.90f665e7.chunk.js.map",
     "index.html": "/spider-game/index.html",
-    "precache-manifest.a125f96c93958f54f076a00484a3fae8.js": "/spider-game/precache-manifest.a125f96c93958f54f076a00484a3fae8.js",
+    "precache-manifest.b73b116460f4bc06f04a135c4ef246ed.js": "/spider-game/precache-manifest.b73b116460f4bc06f04a135c4ef246ed.js",
     "service-worker.js": "/spider-game/service-worker.js",
-    "static/css/main.952a5e4e.chunk.css.map": "/spider-game/static/css/main.952a5e4e.chunk.css.map",
-    "static/js/2.41d79b3a.chunk.js.LICENSE.txt": "/spider-game/static/js/2.41d79b3a.chunk.js.LICENSE.txt",
+    "static/css/main.875be7ad.chunk.css.map": "/spider-game/static/css/main.875be7ad.chunk.css.map",
+    "static/js/2.90f665e7.chunk.js.LICENSE.txt": "/spider-game/static/js/2.90f665e7.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/spider-game/static/media/PostNoBillsJaffna-Bold.47e52d04.woff",
     "static/media/fly.png": "/spider-game/static/media/fly.8fcaccea.png",
     "static/media/spider_man_PNG43.png": "/spider-game/static/media/spider_man_PNG43.835dec4e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bdd224c0.js",
-    "static/js/2.41d79b3a.chunk.js",
-    "static/css/main.952a5e4e.chunk.css",
-    "static/js/main.8fe2280b.chunk.js"
+    "static/js/2.90f665e7.chunk.js",
+    "static/css/main.875be7ad.chunk.css",
+    "static/js/main.9bc96f05.chunk.js"
   ]
 }

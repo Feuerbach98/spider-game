@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spider-game/precache-manifest.a125f96c93958f54f076a00484a3fae8.js"
+  "/spider-game/precache-manifest.b73b116460f4bc06f04a135c4ef246ed.js"
 );
 
 self.addEventListener('message', (event) => {
