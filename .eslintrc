@@ -1,12 +1,15 @@
 {
-  "parserOptions": {
-      "ecmaVersion": 6,
-      "sourceType": "module",
-      "ecmaFeatures": {
-          "jsx": true
-      }
-  },
-  "rules": {
-      "semi": "error"
-  }
+    "extends": [
+        "react-app",
+        "prettier"
+    ],
+    "rules": {
+        "jsx-quotes": [
+            1,
+            "prefer-double"
+        ]
+    },
+    "plugins": [
+        "prettier"
+    ]
 }

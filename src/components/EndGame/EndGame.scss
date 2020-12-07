@@ -1,0 +1,51 @@
+.end-game {
+  padding: 20px;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 10px;
+  min-width: 300px;
+
+  &__message {
+    color: white;
+  }
+
+  &__name {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 2px;
+    border: 0;
+
+    &:hover {
+      box-shadow: 0 0 5px 0 white;
+    }
+  
+    &:active {
+      box-shadow: inset 0 0 5px 0 white;
+    }
+  }
+
+  &__buttons {
+    margin-top: 10px;
+  }
+
+  &__link {
+    padding: 10px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.7);
+
+    &:hover {
+      cursor: pointer;
+      box-shadow: 0 0 5px 0 white;
+    }
+  
+    &:active {
+      box-shadow: inset 0 0 5px 0 white;
+    }
+  }
+}

@@ -1,3 +1,2 @@
-import Play from './Play';
+export * from './Play';
 
-export default Play;
